@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : HDEEVA_challenge_001.c
+ Name        : main.c
  Author      : Doanva <doanvacntt@gmail.com>
 
  Description : Calculate a sum of squares of some integers, excepting negatives
