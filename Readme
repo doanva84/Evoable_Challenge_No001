@@ -9,8 +9,8 @@ HOW TO RUN
 
 2. If you works on Unix with GCC compiler
 2.1 Please go to root of path of project and run these commands to build or create an appropriated makefile
-	gcc -c -o src\HDEEVA_Challenge_001.o ..\src\HDEEVA_Challenge_001.c
-	gcc -c -o src\main.o ..\src\main.c
+	gcc -c -o src\HDEEVA_Challenge_001.o src\HDEEVA_Challenge_001.c
+	gcc -c -o src\main.o src\main.c
 	gcc -o Evolable_Challenge_No001 src\HDEEVA_Challenge_001.o src\main.o
 2.2 Run program by launching a command here:
 	./Evolable_Challenge_No001
